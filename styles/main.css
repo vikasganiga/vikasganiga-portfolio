@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--primary-clr: #db2777;
+	--primary-dark-clr: #831843;
+	--secondary-clr: #2563EB;
+	--secondaty-dark-clr: #1E3A8A;
+	--light-gray-clr: #E5E7EB;
+	--dark-gray-clr: #4B5563;
+	--white-clr: #ffffff;
+	--black-clr: #000000;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
